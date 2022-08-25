@@ -1,0 +1,20 @@
+html, body {
+  background-image: url(background.jpg);
+  height: 100%;
+  width: 100%;
+    
+}
+h1 {
+  text-align:center;
+  color: white;
+  background-color:#94C93D;
+  font-size:48px;
+}
+div {
+  display:inline-block;
+  color: white;
+  background: #076e3b;
+  margin:15px;
+  padding:10px;
+  width:325px;
+}
